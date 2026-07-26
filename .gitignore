@@ -1,2 +1,5 @@
 sensor-sim/sensor
 collector/collector
+api/.venv/
+api/__pycache__/
+__pycache__/
